@@ -1,0 +1,7 @@
+# Your own settings and run output
+oci-arm.env
+provision.log
+
+# Never commit keys or OCI CLI config
+*.pem
+.oci/
